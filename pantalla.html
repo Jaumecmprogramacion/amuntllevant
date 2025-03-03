@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portada de Carga</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <style>
+        /* Estilos para la pantalla de carga */
+        #preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('images/levanteportada1.jpg') no-repeat center center;
+            background-size: cover;  /* La imagen se ajustará a toda la pantalla */
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 1;
+            transition: opacity 1s ease-out;
+        }
+
+        /* Hacemos que el contenido de la página no se vea hasta que cargue */
+        body.loading #content {
+            visibility: hidden;
+        }
+
+        /* Desvanecemos la pantalla de carga */
+        body.loaded #preloader {
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        /* Estilos para el contenido de la página */
+        #content {
+            visibility: hidden;
+            transition: visibility 0s 1s; /* Añadimos un retraso para ocultar el contenido solo después del desvanecimiento */
+        }
+    </style>
+</head>
+<body class="loading">
+
+    <!-- Pantalla de Carga -->
+    <div id="preloader"></div>
+
+    <!-- Contenido de la página -->
+    <div id="content">
+        <!-- Aquí va tu contenido principal -->
+        <h1>Bienvenido a la página principal</h1>
+        <p>Este es el contenido de tu página.</p>
+
+        <!-- Tu resto de contenido aquí -->
+    </div>
+
+    <script>
+        // Cuando la página haya terminado de cargar, se oculta el preloader
+        window.addEventListener('load', function () {
+            document.body.classList.remove('loading');
+            document.body.classList.add('loaded');
+            document.getElementById('content').style.visibility = 'visible';
+        });
+    </script>
+
+</body>
+</html>

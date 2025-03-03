@@ -1,0 +1,144 @@
+{
+    "team": "Levante UD",
+    "coach": "Juli\u00e1n Calero",
+    "players": [
+        {
+            "name": "Andres Fernandez",
+            "position": "Portero",
+            "country": "Espa\u00f1a",
+            "number": 1
+        },
+        {
+            "name": "Alfonso Pastor",
+            "position": "Portero",
+            "country": "Espa\u00f1a",
+            "number": 13
+        },
+        {
+            "name": "\u00c1lex Primo",
+            "position": "Portero",
+            "country": "Espa\u00f1a",
+            "number": 32
+        },
+        {
+            "name": "Adri\u00e1n De la Fuente",
+            "position": "Defensa Central",
+            "country": "Espa\u00f1a",
+            "number": 4
+        },
+        {
+            "name": "Unai Elgezabal",
+            "position": "Defensa Central",
+            "country": "Espa\u00f1a",
+            "number": 5
+        },
+        {
+            "name": "Jorge Cabello",
+            "position": "Defensa Lateral Izquierdo",
+            "country": "Espa\u00f1a",
+            "number": 14
+        },
+        {
+            "name": "Diego Pamp\u00edn",
+            "position": "Defensa Lateral Izquierdo",
+            "country": "Espa\u00f1a",
+            "number": 16
+        },
+        {
+            "name": "Ignasi Miquel",
+            "position": "Defensa Central",
+            "country": "Espa\u00f1a",
+            "number": 18
+        },
+        {
+            "name": "Manu S\u00e1nchez",
+            "position": "Defensa Lateral Derecho",
+            "country": "Espa\u00f1a",
+            "number": 22
+        },
+        {
+            "name": "Sell\u00e9s",
+            "position": "Defensa Central",
+            "country": "Espa\u00f1a",
+            "number": 26
+        },
+        {
+            "name": "Xavi Grande",
+            "position": "Defensa Lateral Derecho",
+            "country": "Espa\u00f1a",
+            "number": 31
+        },
+        {
+            "name": "V\u00edctor Fern\u00e1ndez",
+            "position": "Mediocampista Ofensivo",
+            "country": "Espa\u00f1a",
+            "number": 24
+        },
+        {
+            "name": "Giorgi Kochorashvili",
+            "position": "Mediocampista Central",
+            "country": "Georgia",
+            "number": 6
+        },
+        {
+            "name": "\u00c1ngel Algobia",
+            "position": "Mediocampista Central",
+            "country": "Espa\u00f1a",
+            "number": 8
+        },
+        {
+            "name": "Vicente Iborra",
+            "position": "Mediocampista Central",
+            "country": "Espa\u00f1a",
+            "number": 10
+        },
+        {
+            "name": "Oriol Rey",
+            "position": "Mediocampista Central",
+            "country": "Espa\u00f1a",
+            "number": 20
+        },
+        {
+            "name": "Sergio Lozano",
+            "position": "Mediocampista Central",
+            "country": "Espa\u00f1a",
+            "number": 21
+        },
+        {
+            "name": "Pablo Mart\u00ednez",
+            "position": "Mediocampista Central",
+            "country": "Espa\u00f1a",
+            "number": 23
+        },
+        {
+            "name": "Carlos Alvarez",
+            "position": "Mediocampista Ofensivo",
+            "country": "Espa\u00f1a",
+            "number": 24
+        },
+        {
+            "name": "Roger Brugu\u00e9",
+            "position": "Delantero Derecho",
+            "country": "Espa\u00f1a",
+            "number": 7
+        },
+        {
+            "name": "Iv\u00e1n Romero",
+            "position": "Segundo Delantero",
+            "country": "Espa\u00f1a",
+            "number": 9
+        },
+        {
+            "name": "Jos\u00e9 Luis Morales",
+            "position": "Centro Delantero",
+            "country": "Espa\u00f1a",
+            "number": 11
+        },
+        {
+            "name": "Alex For\u00e9s",
+            "position": "Centro Delantero",
+            "country": "Espa\u00f1a",
+            "number": 19
+        }
+    ]
+}

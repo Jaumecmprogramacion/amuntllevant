@@ -1,0 +1,92 @@
+{
+  "team": [
+    {
+      "equipo": "Racing de Santander",
+      "imagen": "images/escudos/racingsantander.png"
+    },
+    {
+      "equipo": "Huesca",
+      "imagen": "images/escudos/Huesca.png"
+    },
+    {
+      "equipo": "Elche",
+      "imagen": "images/escudos/Elche.png"
+    },
+    {
+      "equipo": "Mirandés",
+      "imagen": "images/escudos/mirandes.png"
+    },
+    {
+      "equipo": "Real Oviedo",
+      "imagen": "images/escudos/realoviedo.png"
+    },
+    {
+      "equipo": "Almería",
+      "imagen": "images/escudos/almeria.png"
+    },
+    {
+      "equipo": "Levante",
+      "imagen": "images/escudos/levante.png"
+    },
+    {
+      "equipo": "Granada",
+      "imagen": "images/escudos/granada.png"
+    },
+    {
+      "equipo": "Sporting",
+      "imagen": "images/escudos/sporting.png"
+    },
+    {
+      "equipo": "Deportivo",
+      "imagen": "images/escudos/deportivocoruna.png"
+    },
+    {
+      "equipo": "Real Zaragoza",
+      "imagen": "images/escudos/zaragoza.png"
+    },
+    {
+      "equipo": "Cádiz",
+      "imagen": "images/escudos/cadiz.png"
+    },
+    {
+      "equipo": "Albacete",
+      "imagen": "images/escudos/albacete.png"
+    },
+    {
+      "equipo": "Eibar",
+      "imagen": "images/escudos/eibar.png"
+    },
+    {
+      "equipo": "Córdoba",
+      "imagen": "images/escudos/cordoba.png"
+    },
+    {
+      "equipo": "Málaga",
+      "imagen": "images/escudos/malaga.png"
+    },
+    {
+      "equipo": "Castellón",
+      "imagen": "images/escudos/castellon.png"
+    },
+    {
+      "equipo": "Burgos",
+      "imagen": "images/escudos/burgos.png"
+    },
+    {
+      "equipo": "Eldense",
+      "imagen": "images/escudos/eldense.png"
+    },
+    {
+      "equipo": "Racing de Ferrol",
+      "imagen": "images/escudos/racing_ferrol.png"
+    },
+    {
+      "equipo": "CD Tenerife",
+      "imagen": "images/escudos/tenerife.png"
+    },
+    {
+      "equipo": "Cartagena",
+      "imagen": "images/escudos/cartagena.png"
+    }
+  ]
+}

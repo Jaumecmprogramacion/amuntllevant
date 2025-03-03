@@ -1,0 +1,1101 @@
+{
+    "squad": [
+        {
+            "height": "1,85",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1692309600,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "57522",
+            "name": "Andr\u00e9s Fern\u00e1ndez",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/57522-1662569651.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "SD Huesca",
+            "shirtNumber": "1",
+            "age": 38,
+            "dateOfBirth": 535071600,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/andres-fernandez-villarreal-cf-1598602476-46255.jpg?lm=1598602471",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Portero",
+                    "shortName": "POR",
+                    "group": "Portero"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 300000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,90",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1720476000,
+            "contractUntil": 1751234400,
+            "captain": true,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "65467",
+            "name": "Vicente Iborra",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/65467-1717008492.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "10",
+            "age": 37,
+            "dateOfBirth": 569286000,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/vicente-iborra-chiquinho-olympiacos-2023-2024-1712830791-134015.jpg?lm=1712830812",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Pivote",
+                    "shortName": "PIV",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "third": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 250000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,89",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1738364400,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "70245",
+            "name": "Ignasi Miquel",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/70245-1513332415.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "18",
+            "age": 32,
+            "dateOfBirth": 717634800,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/ignasi-miquel-leganes-1614007247-57190.jpg?lm=1614007262",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "4",
+                    "name": "Lateral izquierdo",
+                    "shortName": "LI",
+                    "group": "Defensa"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1720130400,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "252677",
+            "name": "Jos\u00e9 Luis Morales",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/252677-1447315847.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "11",
+            "age": 37,
+            "dateOfBirth": 553989600,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/jose-luis-morales-von-ud-levante-1536158525-17536.jpg?lm=1536158551",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Delantero centro",
+                    "shortName": "DEL",
+                    "group": "Delantero"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                },
+                "third": {
+                    "id": "12",
+                    "name": "Extremo derecho",
+                    "shortName": "ED",
+                    "group": "Delantero"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 900000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,85",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "255495",
+            "name": "Unai Elgezabal",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/255495-1675799445.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Burgos CF",
+            "shirtNumber": "5",
+            "age": 31,
+            "dateOfBirth": 735688800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Pivote",
+                    "shortName": "PIV",
+                    "group": "Centrocampista"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 700000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,77",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688162400,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "293388",
+            "name": "Oriol Rey",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/293388-1726053851.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "20",
+            "age": 27,
+            "dateOfBirth": 888361200,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Pivote",
+                    "shortName": "PIV",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                },
+                "third": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1600000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,79",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688162400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "341263",
+            "name": "Adri\u00e1n de la Fuente",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/341263-1698879765.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "4",
+            "age": 26,
+            "dateOfBirth": 919983600,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Lateral derecho",
+                    "shortName": "LD",
+                    "group": "Defensa"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688594400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "341277",
+            "name": "Sergio Lozano",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/341277-1702393888.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "21",
+            "age": 25,
+            "dateOfBirth": 922230000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                },
+                "third": {
+                    "id": "10",
+                    "name": "Mediocentro ofensivo",
+                    "shortName": "MCO",
+                    "group": "Centrocampista"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,83",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1738018800,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "374142",
+            "name": "Manu S\u00e1nchez",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/374142-1698154604.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "CD Castell\u00f3n",
+            "shirtNumber": "22",
+            "age": 28,
+            "dateOfBirth": 827622000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Lateral derecho",
+                    "shortName": "LD",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 350000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656626400,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "405564",
+            "name": "Giorgi Kochorashvili",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/405564-1716542424.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "6",
+            "age": 25,
+            "dateOfBirth": 930607200,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/giorgi-kochorashvili-levante-ud-2023-2024-1734008829-156529.jpg?lm=1734008845",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Pivote",
+                    "shortName": "PIV",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 53,
+                    "name": "Georgia",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/53.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 4000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1721599200,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "505493",
+            "name": "Diego Pamp\u00edn",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/505493-1698882821.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "16",
+            "age": 24,
+            "dateOfBirth": 953074800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Lateral izquierdo",
+                    "shortName": "LI",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 900000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,90",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1720044000,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "537367",
+            "name": "Alfonso Pastor",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/537367-1726053901.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "13",
+            "age": 24,
+            "dateOfBirth": 970610400,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/juanlu-pablo-perez-jose-alonso-jose-mena-genaro-diaz-sanchez-and-alfonso-pastor-2020-sevilla-1694503382-116436.jpg?lm=1694503404",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Portero",
+                    "shortName": "POR",
+                    "group": "Portero"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 200000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,74",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1625090400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "557057",
+            "name": "Roger Brugu\u00e9",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/557057-1701787446.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "7",
+            "age": 28,
+            "dateOfBirth": 847062000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Extremo derecho",
+                    "shortName": "ED",
+                    "group": "Delantero"
+                },
+                "third": {
+                    "id": "14",
+                    "name": "Delantero centro",
+                    "shortName": "DEL",
+                    "group": "Delantero"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,82",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1594936800,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "568835",
+            "name": "Pablo Mart\u00ednez",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/568835-1632129599.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "23",
+            "age": 27,
+            "dateOfBirth": 888102000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Mediocentro ofensivo",
+                    "shortName": "MCO",
+                    "group": "Centrocampista"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 2500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1691791200,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "628886",
+            "name": "Iv\u00e1n Romero",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/628886-1591178773.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "Iv\u00e1n Romero ",
+            "shirtNumber": "9",
+            "age": 23,
+            "dateOfBirth": 986853600,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Delantero centro",
+                    "shortName": "DEL",
+                    "group": "Delantero"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Extremo derecho",
+                    "shortName": "ED",
+                    "group": "Delantero"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 800000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1691618400,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "638589",
+            "name": "\u00c1ngel Algobia",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/638589-1660238970.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "8",
+            "age": 25,
+            "dateOfBirth": 930088800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Pivote",
+                    "shortName": "PIV",
+                    "group": "Centrocampista"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Mediocentro",
+                    "shortName": "MC",
+                    "group": "Centrocampista"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                },
+                {
+                    "id": 136,
+                    "name": "Portugal",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/136.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 800000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,68",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1691791200,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "668179",
+            "name": "Carlos \u00c1lvarez",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/668179-1726053882.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "24",
+            "age": 21,
+            "dateOfBirth": 1060120800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Extremo derecho",
+                    "shortName": "ED",
+                    "group": "Delantero"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Mediocentro ofensivo",
+                    "shortName": "MCO",
+                    "group": "Centrocampista"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Extremo izquierdo",
+                    "shortName": "EI",
+                    "group": "Delantero"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 2500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,79",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1737327600,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": {
+                "id": "11972",
+                "name": "Villarreal CF B",
+                "fullName": "Villarreal CF B",
+                "image": "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/medium\/11972.png?lm=1408655310",
+                "nationalTeam": "",
+                "flag": null,
+                "marketValue": null,
+                "mainCompetition": null
+            },
+            "isLoan": true,
+            "wasLoan": null,
+            "id": "709380",
+            "name": "\u00c1lex For\u00e9s",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/709380-1715846218.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "19",
+            "age": 23,
+            "dateOfBirth": 987026400,
+            "heroImage": "https:\/\/tmssl.akamaized.net\/\/images\/foto\/normal\/alex-fores-2024-villarreal-b-1715845901-136585.jpg?lm=1715845933",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Delantero centro",
+                    "shortName": "DEL",
+                    "group": "Delantero"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 600000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1704063600,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "947115",
+            "name": "Xavi Grande",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/947115-1726053815.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "31",
+            "age": 20,
+            "dateOfBirth": 1106866800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Lateral derecho",
+                    "shortName": "LD",
+                    "group": "Defensa"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 200000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,72",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "1063331",
+            "name": "Marcos Navarro",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/1063331-1726053779.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "29",
+            "age": 20,
+            "dateOfBirth": 1085868000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Lateral izquierdo",
+                    "shortName": "LI",
+                    "group": "Defensa"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 300000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,83",
+            "foot": "Izquierdo",
+            "injury": null,
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "1063333",
+            "name": "Jorge Cabello",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/1063333-1726053748.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Levante UD",
+            "shirtNumber": "14",
+            "age": 20,
+            "dateOfBirth": 1082844000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Defensa central",
+                    "shortName": "CEN",
+                    "group": "Defensa"
+                },
+                "second": {
+                    "id": "4",
+                    "name": "Lateral izquierdo",
+                    "shortName": "LI",
+                    "group": "Defensa"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 700000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,94",
+            "foot": "Derecho",
+            "injury": null,
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "1063338",
+            "name": "Carlos Esp\u00ed",
+            "image": "https:\/\/img.a.transfermarkt.technology\/portrait\/medium\/default.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "",
+            "shirtNumber": "38",
+            "age": 19,
+            "dateOfBirth": 1122156000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Delantero centro",
+                    "shortName": "DEL",
+                    "group": "Delantero"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Espa\u00f1a",
+                    "image": "https:\/\/tmssl.akamaized.net\/\/images\/flagge\/small\/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        }
+    ]
+}
