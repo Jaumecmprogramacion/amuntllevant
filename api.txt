@@ -1,0 +1,1 @@
+API_KEY = "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"  # Reemplázala con tu clave de OpenRouter

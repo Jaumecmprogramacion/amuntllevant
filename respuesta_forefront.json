@@ -1,0 +1,5 @@
+{
+    "error": "Error en la API",
+    "status_code": 400,
+    "detalle": "{\"status\":400,\"error\":\"Invalid model string. Provide a valid model string to the 'model' parameter.\"}"
+}

@@ -141,14 +141,18 @@
                                 </div>
                             </div>
                         </article>
-                        <article class="hero__slide swiper-slide">
+                         <article class="hero__slide swiper-slide">
                             <div class="hero__entry-image" style="background-image: url('images/aficion.jpg');"></div>
                             <div class="hero__entry-text">
                                 <div class="hero__entry-text-inner">
+                                <div class="logo-container">
+                                <img src="images/LaLiga_Hypermotion_2023_Horizontal_Logo.svg.png" alt="Logo Levante" width="220" height="auto">
+                                </div>
                                 
                                 <?php include 'includes/proximo.php'; ?>
 
                                 </div>
+                            </div>
                             </div>
                         </article>
                        
@@ -353,7 +357,7 @@
 
 
                        
-                        
+
                         
                     </div> <!-- end bricks-wrapper -->
 
@@ -362,12 +366,18 @@
 
                
             </div> <!-- end bricks -->
+</seccion>
 
 
-    <!-- # site-footer
-        ================================================== -->
-        <?php include('includes/footer.php');?>
-        </footer><!-- end s-footer -->
+            <footer>
+    <?php include('includes/footer.php'); ?>
+</footer>
+        
+
+
+
+
+        
 
 
     <!-- Java Script
@@ -375,5 +385,8 @@
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
 
+    
+
 </body>
+
 </html>

@@ -1,4 +1,5 @@
 
+
 <?php
 // Ruta del archivo JSON
 $filePath = __DIR__ . "/../datos/matches.json"; 
@@ -40,17 +41,7 @@ function cargarLesionados($rutaJson) {
     return '';
 }
 
-$lesionados = cargarprono(__DIR__ . '/../datos/lesionados.json');
-
-// Función para cargar lesionados
-function cargarprono($rutaJson) {
-    if (file_exists($rutaJson)) {
-        return file_get_contents($rutaJson);
-    }
-    return '';
-}
-
-$prono = cargarprono(__DIR__ . '/../datos/pronosticoia.json');
+$lesionados = cargarLesionados(__DIR__ . '/../datos/lesionados.json');
 
 ?>
 
@@ -78,9 +69,9 @@ $prono = cargarprono(__DIR__ . '/../datos/pronosticoia.json');
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .lesionados-box {
-            
+            background-color: #fff3cd;
             padding: 15px;
-            border-left: 5px solidrgb(83, 29, 184);
+            border-left: 5px solid #ff0000;
             border-radius: 5px;
             margin-bottom: 20px;
             text-align: left;
@@ -147,24 +138,6 @@ $prono = cargarprono(__DIR__ . '/../datos/pronosticoia.json');
                 <p>No hay información sobre lesionados en este momento.</p>
             <?php endif; ?>
         </div>
-        
-        <div class="iconos-lesionados">
-    <img src="images/ia1.svg" alt="Robot" style="width: 25px; height: 25px; margin-right: 5px; vertical-align: middle;">
-    <strong style="font-size: 14px; font-weight: bold; color: #333; vertical-align: middle;">
-        La IA predice que
-    </strong>
-    <img src="images/ia1.svg" alt="Robot" style="width: 25px; height: 25px; margin-left: 5px; vertical-align: middle;">
-</div>
-<div class="contenido-lesionados">
-    <?php if (!empty($prono)): ?>
-        <p><?= nl2br(htmlspecialchars($prono)) ?></p>
-    <?php else: ?>
-        <p>No hay información de pronósticos en este momento.</p>
-    <?php endif; ?>
-</div>
-
-
-
     </div>
 
     <!-- Sección del Próximo Partido -->
