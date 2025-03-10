@@ -19,8 +19,9 @@
                        
                       
                         <li><a href="plantilla.php" title="">Plantilla</a></li>
-                        <li><a href=" clasificaciondet.php" title="">Clasificación</a></li>
                         <li><a href="resultados.php" title="">Calendario</a></li>
+                        <li><a href=" clasificaciondet.php" title="">Clasificación</a></li>
+                        <li><a href="estadisticasplatilla.php" title="">Estadísticas</a></li>
                         <li><a href="contacto.php" title="">Contacto/Sobre Nosotros</a></li>
 
                </nav> <!-- end s-header__nav-wrap -->

@@ -75,8 +75,8 @@
         ================================================== -->
         <div id="content" class="s-content s-content--blog">
 
-                <div class="row entry-wrap">
-                    <div class="column lg-12">
+               
+                    
 
                         <article class="entry format-standard">
 
@@ -85,7 +85,7 @@
 
 
                                 
-                            </header>
+                           
 
                             
 
@@ -105,7 +105,7 @@
                     </div>
                 </div> <!-- end entry-wrap -->
         </section> <!-- end s-content -->
-
+ </header>
 
         <!-- # site-footer
         ================================================== -->

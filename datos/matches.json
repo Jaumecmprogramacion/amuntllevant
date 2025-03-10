@@ -994,8 +994,8 @@
                 "goalsAway": "2",
                 "minute": 0,
                 "state": "100",
-                "destinationValue": 3,
-                "destinationDescription": "Highlights"
+                "destinationValue": 2,
+                "destinationDescription": "Spielbericht"
             }
         },
         {
@@ -1018,17 +1018,17 @@
             "awayClubID": "7077",
             "awayClubName": "FC Cartagena",
             "awayClubImage": "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/medium\/7077.png?lm=1707084533",
-            "result": "-:-",
+            "result": "3:0",
             "postponed": false,
             "nextRound": "",
             "resultObject": {
-                "result": "-:-",
-                "goalsHome": "-",
-                "goalsAway": "-",
+                "result": "3:0",
+                "goalsHome": "3",
+                "goalsAway": "0",
                 "minute": 0,
-                "state": "",
-                "destinationValue": 1,
-                "destinationDescription": "Vorbericht"
+                "state": "100",
+                "destinationValue": 2,
+                "destinationDescription": "Spielbericht"
             }
         },
         {
@@ -1107,10 +1107,10 @@
             "round": "",
             "group": "",
             "matchDay": "33",
-            "matchDate": "30\/03\/2025",
-            "fullMatchDate": "domingo, 30 de marzo de 2025",
-            "matchTime": "00:00:00",
-            "timestamp": 1743289200,
+            "matchDate": "29\/03\/2025",
+            "fullMatchDate": "sábado, 29 de marzo de 2025",
+            "matchTime": "21:00:00",
+            "timestamp": 1743278400,
             "homeClubID": "3302",
             "homeClubName": "UD Almería",
             "homeClubImage": "https:\/\/tmssl.akamaized.net\/\/images\/wappen\/medium\/3302.png?lm=1736335439",

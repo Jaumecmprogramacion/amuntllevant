@@ -6,16 +6,16 @@
     ================================================== -->
     
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Noticias y datos del Levante ud">
-    <meta name="keywords" content="Levante UD, fútbol, noticias, Levante, plantilla, resultados, Jaume Crespo granota, calendario levante ud, calendario levante u.d.calendario llevant ud">
-    <meta name="author" content="Jaume Crespo">
-    <meta property="og:title" content="Noticias Levante UD">
-    <meta property="og:description" content="Una descripción más detallada de tu página para compartir en redes sociales.">
-    <meta property="og:image" content="URL_DE_TU_IMAGEN">
-    <meta property="og:url" content="URL_DE_TU_PÁGINA">
-    <meta name="robots" content="index, follow">
-    <title>Noticias Levante UD</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Mantente al día con las últimas noticias, resultados y datos del Levante UD. Entérate de la plantilla, calendario y todo sobre el club granota.">
+<meta name="keywords" content="Levante UD, fútbol, noticias Levante, plantilla Levante, resultados Levante, calendario Levante, Jaume Crespo, Levante UD última hora">
+<meta name="author" content="Jaume Crespo">
+<meta property="og:title" content="Noticias y Datos del Levante UD">
+<meta property="og:description" content="Descubre todas las novedades sobre el Levante UD, con noticias actualizadas, resultados, calendario y mucho más sobre el club granota.">
+<meta property="og:image" content="images/escudos/levante.png">
+<meta property="og:url" content="images/escudos/levante.png">
+<meta name="robots" content="index, follow">
+<title>Noticias y Datos del Levante UD</title>
 
 
 
@@ -116,7 +116,7 @@
                         </article>
                         
                         <article class="hero__slide swiper-slide">
-                            <div class="hero__entry-image" style="background-image: url('images/-estadiociutatvalencia.jpg');"></div>
+                            <div class="hero__entry-image" style="background-image: url('images/campo01.jpg');"></div>
                             <div class="hero__entry-text">
                                 <div class="hero__entry-text-inner">
                                 <div class="logo-container">
@@ -142,12 +142,12 @@
                             </div>
                         </article>
                          <article class="hero__slide swiper-slide">
-                            <div class="hero__entry-image" style="background-image: url('images/aficion.jpg');"></div>
+                            <div class="hero__entry-image" style="background-image: url('images/gente01.jpg');"></div>
                             <div class="hero__entry-text">
                                 <div class="hero__entry-text-inner">
                                 <div class="logo-container">
-                                <img src="images/LaLiga_Hypermotion_2023_Horizontal_Logo.svg.png" alt="Logo Levante" width="220" height="auto">
-                                </div>
+                                        <img src="images/LaLiga_Hypermotion_2023_Horizontal_Logo.svg.png" alt="Logo Levante" width="220" height="auto">
+                                        </div>
                                 
                                 <?php include 'includes/proximo.php'; ?>
 
@@ -158,13 +158,16 @@
                        
                         
                         <article class="hero__slide swiper-slide">
-                            <div class="hero__entry-image" style="background-image: url('images/kocho01.jpg');"></div>
+                            <div class="hero__entry-image" style="background-image: url('images/analisis.jpg');"></div>
                             <div class="hero__entry-text">
                                 <div class="hero__entry-text-inner">
-                                <?php include 'includes/mostrarpartidos.php'; ?>
+                                <div class="logo-container">
+                                        <img src="images/levantelogo.svg" alt="Logo Levante" width="200" height="auto">
+                                        </div>
+                                <?php include 'includes/verefemerides.php'; ?>
                                     <div class="hero__entry-meta">
                                     <div class="logo-container">
-                                        <img src="images/levantelogo.svg" alt="Logo Levante" width="200" height="auto">
+                                        <img src="images/levantelogo.svg" alt="Logo Levante" width="80" height="auto">
                                       
                                    
                                    
@@ -198,6 +201,38 @@
                 <div class="masonry">
 
                     <div class="bricks-wrapper" data-animate-block>
+                    <article class="brick entry" data-animate-el>
+
+<div class="entry__thumb">
+    <a href="resultados.php" class="thumb-link">
+        <img src="images/resultados.jpg" 
+            srcset="images/resultados.jpg" alt="">
+    </a>
+</div> <!-- end entry__thumb -->
+
+<div class="entry__text">
+    <div class="entry__header">
+        <div class="entry__meta">
+            <span class="cat-links">
+                <a href="#">Datos</a>
+            </span>
+            <span class="byline">
+                
+                <a href="resultados.php">Partidos y calendario</a>
+            </span>
+        </div>
+        <h1 class="entry__title"><a href="resultados.php">Calendario/Resultados temporada</a></h1>
+    </div>
+    <div class="entry__excerpt">
+        <p>
+        Datos de los partidos jugados y por jugar
+        </p>
+    </div>
+    <a class="entry__more-link" href="resultados.php">LEER MÁS</a>
+</div> <!-- end entry__text -->
+
+
+</article> <!-- end article -->
                     <article class="brick entry" data-animate-el>
                 
         <div class="entry__thumb">
@@ -237,8 +272,8 @@
         
         <div class="entry__thumb">
             <a href="plantilla.php" class="thumb-link">
-                <img src="images/plantilla.jpg" 
-                    srcset="images/plantilla.jpg" alt="">
+                <img src="images/estadisticas.png" 
+                    srcset="images/estadisticas.png" alt="">
             </a>
         </div> <!-- end entry__thumb -->
      
@@ -272,8 +307,8 @@
 
         <div class="entry__thumb">
             <a href="single-standard.html" class="thumb-link">
-                <img src="images/clasificacion01.jpg" 
-                    srcset="images/clasificacion01.jpg" alt="">
+                <img src="images/clasificacion.jpg" 
+                    srcset="images/clasificacion.jpg" alt="">
             </a>
         </div> <!-- end entry__thumb -->
 
@@ -303,38 +338,7 @@
         
         
     </article> <!-- end article -->
-    <article class="brick entry" data-animate-el>
-
-        <div class="entry__thumb">
-            <a href="resultados.php" class="thumb-link">
-                <img src="images/partdioscarlos.jpg" 
-                    srcset="images/partdioscarlos.jpg" alt="">
-            </a>
-        </div> <!-- end entry__thumb -->
-
-        <div class="entry__text">
-            <div class="entry__header">
-                <div class="entry__meta">
-                    <span class="cat-links">
-                        <a href="#">Datos</a>
-                    </span>
-                    <span class="byline">
-                        
-                        <a href="resultados.php">Partidos y calendario</a>
-                    </span>
-                </div>
-                <h1 class="entry__title"><a href="resultados.php">Calendario/Resultados temporada</a></h1>
-            </div>
-            <div class="entry__excerpt">
-                <p>
-                Datos de los partidos jugados y por jugar
-                </p>
-            </div>
-            <a class="entry__more-link" href="resultados.php">LEER MÁS</a>
-        </div> <!-- end entry__text -->
-        
-        
-    </article> <!-- end article -->
+   
                     <?php
                         include('includes/superdeporte.php');
                         include('includes/marca.php');

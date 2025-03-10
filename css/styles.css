@@ -65,8 +65,13 @@
  * # BLOG STYLES 
  *      ## blog comments 
  *
- * ------------------------------------------------------------------ */
+ * ------------------------------------------------------------------ 
+
+
+
  /* Contenedor de la tabla con desplazamiento horizontal */
+
+
 .table-container {
     width: 100%;
     overflow-x: auto; /* Permite el desplazamiento horizontal */
@@ -2807,7 +2812,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-    --btn-height            : var(--vspace-btn);
+    
     display                 : inline-block;
     font-family             : var(--font-1);
     font-weight             : 600;

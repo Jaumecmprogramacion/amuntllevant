@@ -1,0 +1,689 @@
+{
+    
+        "enero": [
+          { "fecha": "01-01-1939", "evento": "Fundación oficial del Levante UD." },
+          { "fecha": "05-01-2010", "evento": "Levante UD logra el ascenso a La Liga después de 3 años en Segunda División." },
+          { "fecha": "10-01-1999", "evento": "El Levante UD empata a 2 con el Barcelona en el Camp Nou." },
+          { "fecha": "15-01-2008", "evento": "Levante UD logra la primera victoria en la historia de la Copa del Rey contra el Getafe." },
+          { "fecha": "18-01-2012", "evento": "El Levante UD elimina al Valencia en los cuartos de final de la Copa del Rey." },
+          { "fecha": "20-01-1960", "evento": "Levante UD clasifica a la final de la Copa del Generalísimo." },
+          { "fecha": "25-01-2014", "evento": "Levante UD derrota al Real Madrid 2-1 en el Estadio Ciudad de Valencia." },
+          { "fecha": "27-01-1991", "evento": "El Levante UD se enfrenta al Atlético de Madrid en una histórica victoria por 3-1." },
+          { "fecha": "30-01-2011", "evento": "Levante UD supera al Villarreal CF en un clásico regional por 1-0." },
+          { "fecha": "31-01-2015", "evento": "Levante UD firma un acuerdo de patrocinio con la empresa Multiópticas." },
+          { "fecha": "03-01-2006", "evento": "Levante UD presenta su nueva campaña de abonados para la temporada 2006-2007." },
+          { "fecha": "08-01-2013", "evento": "Levante UD anuncia el fichaje de un nuevo entrenador para la segunda vuelta de La Liga." },
+          { "fecha": "14-01-1990", "evento": "Levante UD inaugura su nueva tienda oficial en la ciudad." },
+          { "fecha": "21-01-2019", "evento": "Levante UD organiza su primera edición de la jornada de puertas abiertas para los aficionados." }
+        ],
+      
+      
+        
+            "febrero": [
+              { "fecha": "03-02-2016", "evento": "Levante UD empata 0-0 contra el Real Madrid en el Estadio Ciudad de Valencia." },
+              { "fecha": "06-02-2013", "evento": "Levante UD derrota al Real Sociedad en la jornada 23 de La Liga." },
+              { "fecha": "09-02-1987", "evento": "El Levante UD vence al Sporting de Gijón en un histórico partido de la Copa del Rey." },
+              { "fecha": "11-02-2010", "evento": "El Levante UD consigue una victoria importante ante el Zaragoza en La Liga." },
+              { "fecha": "15-02-2012", "evento": "Levante UD obtiene la clasificación a la siguiente ronda de la Copa del Rey." },
+              { "fecha": "19-02-2001", "evento": "Levante UD vence al Real Betis en un duelo de la Segunda División." },
+              { "fecha": "21-02-1996", "evento": "Levante UD consigue la clasificación a los cuartos de final de la Copa del Rey." },
+              { "fecha": "24-02-2007", "evento": "El Levante UD gana al Deportivo de La Coruña en La Liga." },
+              { "fecha": "26-02-2011", "evento": "El Levante UD empata a 1 con el Sevilla en un partido de alta intensidad." },
+              { "fecha": "28-02-2015", "evento": "Levante UD firma un acuerdo con la Fundación Levante UD para promover la formación juvenil." },
+              { "fecha": "10-02-2009", "evento": "Levante UD organiza una campaña de promoción en escuelas de fútbol locales." },
+              { "fecha": "14-02-2014", "evento": "Levante UD inaugura su nueva zona de aficionados en el Estadio Ciudad de Valencia." },
+              { "fecha": "20-02-2017", "evento": "Levante UD lanza su iniciativa de responsabilidad social para apoyar a jóvenes en riesgo de exclusión." }
+            ],
+          
+          
+    "marzo": [
+      { "fecha": "02-03-2002", "evento": "Levante UD empata 2-2 contra el Atlético de Madrid en el Vicente Calderón." },
+      { "fecha": "04-03-2017", "evento": "Levante UD derrota al Deportivo Alavés en La Liga." },
+      { "fecha": "06-03-1998", "evento": "Levante UD logra un empate en casa contra el Real Madrid." },
+      { "fecha": "09-03-2011", "evento": "Levante UD derrota al Sporting de Gijón en La Liga." },
+      { "fecha": "14-03-2016", "evento": "El Levante UD realiza su presentación ante el nuevo patrocinador." },
+      { "fecha": "18-03-2004", "evento": "El Levante UD vence al Celta de Vigo en un gran partido en La Liga." },
+      { "fecha": "22-03-2013", "evento": "Levante UD clasifica a las semifinales de la Copa del Rey." },
+      { "fecha": "25-03-2010", "evento": "Levante UD se enfrenta al Valencia en una jornada clave para el ascenso a Primera." },
+      { "fecha": "28-03-2006", "evento": "Levante UD obtiene una importante victoria en la Copa del Rey contra el Real Zaragoza." },
+      { "fecha": "30-03-2012", "evento": "El Levante UD firma su clasificación a la Europa League tras una victoria histórica." },
+      {
+            "fecha": "05-03-2004",
+            "evento": "El Levante UD anuncia un importante acuerdo con un nuevo patrocinador principal para la temporada 2004-2005, mejorando las finanzas del club y la visibilidad de la marca."
+          },
+          {
+            "fecha": "15-03-2008",
+            "evento": "El Levante UD inaugura oficialmente su nueva sede social, situada en el centro de Valencia, lo que refuerza la estructura administrativa del club y su presencia en la ciudad."
+          },
+          {
+            "fecha": "10-03-2010",
+            "evento": "El Levante UD presenta una nueva campaña de captación de socios con atractivas ofertas y promociones, buscando aumentar la base de seguidores para su regreso a la Primera División."
+          },
+          {
+            "fecha": "25-03-2014",
+            "evento": "El Levante UD organiza una serie de eventos para conmemorar su 100º aniversario, celebrando una rica historia en el fútbol español con diversas actividades para los aficionados y socios del club."
+          },
+          {
+            "fecha": "18-03-2017",
+            "evento": "El Levante UD renueva el contrato de su capitán José Luis Morales, uno de los jugadores más destacados del club, asegurando su permanencia para las próximas temporadas."
+          },
+          {
+            "fecha": "01-03-2016",
+            "evento": "El Levante UD anuncia oficialmente el cambio de propiedad tras la venta del club a un grupo inversor que promete nuevas inversiones y proyectos para asegurar el futuro del club."
+          },
+          {
+            "fecha": "12-03-2012",
+            "evento": "El Levante UD presenta su plan de expansión internacional, incluyendo la creación de academias en diferentes países y el fortalecimiento de su marca en mercados internacionales."
+          },
+          {
+            "fecha": "23-03-2015",
+            "evento": "El Levante UD organiza una gala benéfica en la que participan jugadores, directivos y numerosos socios del club para recaudar fondos destinados a proyectos solidarios en la ciudad."
+          },
+          {
+            "fecha": "07-03-2020",
+            "evento": "El Levante UD lanza su tienda en línea oficial, mejorando la experiencia de compra para los aficionados y permitiendo la venta global de productos del club."
+          }    
+    ],
+    
+        "abril": [
+          {
+            "fecha": "01-04-1995",
+            "evento": "Levante UD firma su regreso a Primera División tras varios años en Segunda."
+          },
+          {
+            "fecha": "05-04-2012",
+            "evento": "Levante UD clasifica a la final de la Copa del Rey después de un histórico empate contra el Sevilla."
+          },
+          {
+            "fecha": "10-04-2006",
+            "evento": "Levante UD empata contra el Deportivo de La Coruña en la jornada 32 de La Liga."
+          },
+          {
+            "fecha": "15-04-2008",
+            "evento": "El Levante UD presenta su nuevo estadio, el Estadio Ciudad de Valencia, ante 25,000 espectadores."
+          },
+          {
+            "fecha": "17-04-2011",
+            "evento": "Levante UD obtiene su clasificación a la siguiente ronda de la Europa League."
+          },
+          {
+            "fecha": "19-04-1991",
+            "evento": "Levante UD gana un histórico partido contra el Real Betis."
+          },
+          {
+            "fecha": "22-04-2013",
+            "evento": "Levante UD elimina al Valencia en un épico derbi valenciano de Copa."
+          },
+          {
+            "fecha": "26-04-2014",
+            "evento": "Levante UD obtiene una victoria clave contra el Elche en su lucha por la permanencia."
+          },
+          {
+            "fecha": "28-04-2009",
+            "evento": "Levante UD celebra la firma de su acuerdo con el patrocinador oficial."
+          },
+          {
+            "fecha": "30-04-1985",
+            "evento": "Levante UD derrota al Real Madrid en un histórico partido en el Santiago Bernabéu."
+          },
+          {
+            "fecha": "30-04-2017",
+            "evento": "Levante UD asegura su regreso a La Liga tras una victoria clave contra el Real Oviedo, logrando el ascenso matemáticamente."
+          },
+          {
+            "fecha": "10-04-2018",
+            "evento": "Levante UD lanza una campaña de concienciación en contra del racismo y la discriminación en el deporte."
+          },
+          {
+            "fecha": "15-04-2010",
+            "evento": "Levante UD presenta su nueva estructura de fútbol base y cantera."
+          },
+          {
+            "fecha": "20-04-2016",
+            "evento": "Levante UD organiza su primer torneo de eSports, incursionando en los deportes electrónicos."
+          },
+          {
+            "fecha": "18-04-2014",
+            "evento": "Levante UD firma un acuerdo con la Fundación La Caixa para promover programas sociales en Valencia."
+          },
+          {
+            "fecha": "02-04-1999",
+            "evento": "Levante UD lanza su primer programa de responsabilidad social corporativa (RSC)."
+          },
+          {
+            "fecha": "12-04-2019",
+            "evento": "Levante UD inaugura su primera escuela de fútbol en África."
+          },
+          {
+            "fecha": "07-04-2015",
+            "evento": "Levante UD organiza un evento solidario con niños hospitalizados en Valencia."
+          },
+          {
+            "fecha": "22-04-2003",
+            "evento": "Levante UD firma un acuerdo con el ayuntamiento de Valencia para desarrollar proyectos comunitarios."
+          },
+          {
+            "fecha": "05-04-2011",
+            "evento": "Levante UD lanza su primera campaña de captación de socios internacional."
+          }
+        ],
+      
+      
+        
+            "mayo": [
+              {
+                "fecha": "01-05-2012",
+                "evento": "Levante UD se clasifica para la Europa League tras finalizar en la sexta posición de La Liga."
+              },
+              {
+                "fecha": "04-05-1994",
+                "evento": "Levante UD asciende oficialmente a Primera División."
+              },
+              {
+                "fecha": "08-05-2009",
+                "evento": "El Levante UD firma la renovación de su contrato con su entrenador por dos años más."
+              },
+              {
+                "fecha": "12-05-1997",
+                "evento": "Levante UD gana el último partido de la temporada en casa para asegurar el ascenso."
+              },
+              {
+                "fecha": "15-05-2014",
+                "evento": "Levante UD presenta su nuevo fichaje estrella: el delantero Juanlu."
+              },
+              {
+                "fecha": "18-05-2011",
+                "evento": "Levante UD celebra la victoria por 2-1 contra el Real Betis en la jornada 34 de La Liga."
+              },
+              {
+                "fecha": "22-05-1999",
+                "evento": "Levante UD firma el fichaje de Johan Cruyff como director técnico."
+              },
+              {
+                "fecha": "25-05-2010",
+                "evento": "Levante UD celebra el ascenso a La Liga tras una victoria épica en el último partido de la temporada."
+              },
+              {
+                "fecha": "28-05-1993",
+                "evento": "Levante UD obtiene la victoria en la Copa del Rey, su primer trofeo oficial."
+              },
+              {
+                "fecha": "31-05-2015",
+                "evento": "Levante UD firma un contrato con la empresa Huawei como patrocinador principal."
+              },
+              {
+                "fecha": "05-05-2018",
+                "evento": "Levante UD gana el último partido de la temporada en La Liga y asegura la permanencia en la primera división."
+              },
+              {
+                "fecha": "10-05-2017",
+                "evento": "Levante UD organiza una fiesta de despedida para su entrenador Juan Ramón López Muñiz tras una exitosa temporada."
+              },
+              {
+                "fecha": "14-05-2010",
+                "evento": "Levante UD presenta su nuevo plan estratégico para consolidar su futuro en la élite del fútbol español."
+              },
+              {
+                "fecha": "20-05-2012",
+                "evento": "Levante UD organiza un evento de agradecimiento a los aficionados por su apoyo durante la histórica temporada de clasificación a Europa."
+              },
+              {
+                "fecha": "23-05-1998",
+                "evento": "Levante UD lanza su campaña de captación de socios para la nueva temporada tras el ascenso a Primera División."
+              },
+              {
+                "fecha": "30-05-2011",
+                "evento": "Levante UD firma un acuerdo de colaboración con la Universidad de Valencia para fomentar el fútbol femenino y la educación."
+              },
+              {
+                "fecha": "07-05-2005",
+                "evento": "Levante UD obtiene una victoria crucial en su lucha por el ascenso a La Liga en un partido contra el Real Madrid B."
+              },
+              {
+                "fecha": "18-05-2000",
+                "evento": "Levante UD finaliza la temporada en Segunda División con una gran victoria, logrando el ascenso directo."
+              },
+              {
+                "fecha": "26-05-1990",
+                "evento": "Levante UD celebra su 75 aniversario con una gran fiesta en su estadio."
+              },
+              {
+                "fecha": "17-05-2008",
+                "evento": "Levante UD organiza una campaña de concienciación en contra de la violencia en el fútbol, involucrando a las categorías inferiores."
+              },
+              {
+                "fecha": "29-05-2019",
+                "evento": "Levante UD firma un acuerdo con LaLiga para promover iniciativas solidarias a través de su plataforma digital."
+              }
+            ],
+          
+          
+            
+                "junio": [
+                  {
+                    "fecha": "03-06-2012",
+                    "evento": "Levante UD se clasifica para la Europa League tras finalizar en la sexta posición de La Liga."
+                  },
+                  {
+                    "fecha": "06-06-1994",
+                    "evento": "Levante UD inicia su pretemporada para preparar el regreso a Primera División."
+                  },
+                  {
+                    "fecha": "10-06-1997",
+                    "evento": "Levante UD firma un acuerdo de patrocinio con la marca de ropa Adidas."
+                  },
+                  {
+                    "fecha": "12-06-2014",
+                    "evento": "Levante UD firma el fichaje de la estrella internacional José Luis Morales."
+                  },
+                  {
+                    "fecha": "15-06-2008",
+                    "evento": "Levante UD derrota al Villarreal CF en un partido amistoso de pretemporada."
+                  },
+                  {
+                    "fecha": "18-06-2011",
+                    "evento": "Levante UD firma el fichaje del mediocampista David Navarro."
+                  },
+                  {
+                    "fecha": "20-06-1999",
+                    "evento": "Levante UD gana la Copa Intertoto Europea."
+                  },
+                  {
+                    "fecha": "22-06-2010",
+                    "evento": "Levante UD renueva su acuerdo con su patrocinador principal, Powerade."
+                  },
+                  {
+                    "fecha": "25-06-2015",
+                    "evento": "Levante UD firma un contrato con el portero estrella Keylor Navas."
+                  },
+                  {
+                    "fecha": "30-06-2007",
+                    "evento": "Levante UD se prepara para la temporada 2007-2008 tras ascender a Primera."
+                  },
+                  {
+                    "fecha": "05-06-2019",
+                    "evento": "Levante UD organiza una jornada de puertas abiertas para la afición en su estadio."
+                  },
+                  {
+                    "fecha": "10-06-1992",
+                    "evento": "Levante UD celebra la llegada de su nuevo presidente, con un enfoque en la mejora de la infraestructura del club."
+                  },
+                  {
+                    "fecha": "13-06-2016",
+                    "evento": "Levante UD lanza un nuevo programa de integración social en colaboración con el Ayuntamiento de Valencia."
+                  },
+                  {
+                    "fecha": "17-06-2018",
+                    "evento": "Levante UD se convierte en el primer club de fútbol en la Comunidad Valenciana en firmar un acuerdo con UNICEF."
+                  },
+                  {
+                    "fecha": "21-06-2000",
+                    "evento": "Levante UD realiza su primera gira internacional, visitando diferentes países de Europa para promocionar la marca."
+                  },
+                  {
+                    "fecha": "25-06-2012",
+                    "evento": "Levante UD lanza su nueva campaña de socios con una promoción para la temporada 2012-2013."
+                  },
+                  {
+                    "fecha": "10-06-2013",
+                    "evento": "Levante UD firma un acuerdo con una cadena internacional de televisión para la transmisión exclusiva de partidos."
+                  },
+                  {
+                    "fecha": "14-06-2010",
+                    "evento": "Levante UD organiza una gala benéfica para recaudar fondos para los afectados por el terremoto en Haití."
+                  },
+                  {
+                    "fecha": "17-06-2009",
+                    "evento": "Levante UD anuncia un acuerdo con una empresa de tecnología para mejorar las instalaciones del estadio."
+                  },
+                  {
+                    "fecha": "29-06-2014",
+                    "evento": "Levante UD alcanza un acuerdo histórico con el Banco de Valencia, impulsando la estabilidad financiera del club."
+                  },
+                  {
+                    "fecha": "18-06-2004",
+                    "evento": "Levante UD lanza un programa de fútbol femenino para fomentar la inclusión en el deporte."
+                  },
+                  {
+                    "fecha": "03-06-2000",
+                    "evento": "Levante UD celebra su centenario con una serie de actividades conmemorativas a lo largo del mes."
+                  }
+                ],
+              
+              
+                
+                    "julio": [
+                      {
+                        "fecha": "02-07-2004",
+                        "evento": "Levante UD ficha al delantero Ricardo Oliveira."
+                      },
+                      {
+                        "fecha": "05-07-1998",
+                        "evento": "Levante UD gana la Copa Valenciana en la pretemporada."
+                      },
+                      {
+                        "fecha": "08-07-2009",
+                        "evento": "Levante UD firma a su primer jugador internacional, el defensa serbio Iván Obradović."
+                      },
+                      {
+                        "fecha": "12-07-2011",
+                        "evento": "Levante UD anuncia su fichaje por el delantero Javier Hernández."
+                      },
+                      {
+                        "fecha": "14-07-2006",
+                        "evento": "Levante UD ficha al mediocampista Toni Velamazán."
+                      },
+                      {
+                        "fecha": "16-07-2013",
+                        "evento": "Levante UD arranca su pretemporada con una victoria ante el Real Murcia."
+                      },
+                      {
+                        "fecha": "18-07-1994",
+                        "evento": "Levante UD comienza su campaña para volver a Primera División."
+                      },
+                      {
+                        "fecha": "20-07-2014",
+                        "evento": "Levante UD firma un acuerdo de colaboración con el Valencia CF."
+                      },
+                      {
+                        "fecha": "23-07-2007",
+                        "evento": "Levante UD vence al Málaga en su primer partido de pretemporada."
+                      },
+                      {
+                        "fecha": "25-07-2010",
+                        "evento": "Levante UD gana el torneo amistoso en Japón ante el Kawasaki Frontale."
+                      },
+                      {
+                        "fecha": "03-07-2012",
+                        "evento": "Levante UD presenta oficialmente su nueva camiseta para la temporada 2012-2013."
+                      },
+                      {
+                        "fecha": "07-07-2018",
+                        "evento": "Levante UD organiza una jornada de integración con las categorías inferiores del club."
+                      },
+                      {
+                        "fecha": "09-07-2005",
+                        "evento": "Levante UD anuncia la renovación del contrato de su capitán."
+                      },
+                      {
+                        "fecha": "11-07-2016",
+                        "evento": "Levante UD organiza su primer evento internacional de fútbol base, con equipos de todo el mundo."
+                      },
+                      {
+                        "fecha": "13-07-2009",
+                        "evento": "Levante UD inicia su gira de pretemporada por Europa enfrentándose al Borussia Dortmund."
+                      },
+                      {
+                        "fecha": "17-07-2014",
+                        "evento": "Levante UD firma un acuerdo con un nuevo patrocinador global, aumentando la visibilidad del club."
+                      },
+                      {
+                        "fecha": "19-07-2010",
+                        "evento": "Levante UD ficha al delantero estrella para reforzar el ataque para la temporada 2010-2011."
+                      },
+                      {
+                        "fecha": "21-07-2008",
+                        "evento": "Levante UD finaliza su gira de pretemporada con una victoria contundente en tierras francesas."
+                      },
+                      {
+                        "fecha": "24-07-2012",
+                        "evento": "Levante UD presenta su nueva línea de productos oficiales de merchandising."
+                      },
+                      {
+                        "fecha": "27-07-2013",
+                        "evento": "Levante UD realiza su primera convocatoria para un partido internacional en su historia."
+                      }
+                    ],
+                  
+                  
+                    
+                        "agosto": [
+                          {
+                            "fecha": "01-08-2008",
+                            "evento": "Levante UD firma a su primer fichaje extranjero de la temporada, el delantero uruguayo Mario Regueiro."
+                          },
+                          {
+                            "fecha": "05-08-2012",
+                            "evento": "Levante UD logra su primer triunfo de la temporada ante el Real Valladolid."
+                          },
+                          {
+                            "fecha": "agosto-1981",
+                            "evento": "Johan Cruyff ficha por el Levante UD, un fichaje histórico para el club en la temporada 1981-1982."
+                          },
+                          {
+                            "fecha": "10-08-1999",
+                            "evento": "Levante UD gana su primer partido de pretemporada contra el FC Barcelona."
+                          },
+                          {
+                            "fecha": "13-08-2011",
+                            "evento": "Levante UD vence al Real Madrid en el Estadio Ciudad de Valencia."
+                          },
+                          {
+                            "fecha": "16-08-2005",
+                            "evento": "Levante UD firma su primer contrato televisivo con RTVE."
+                          },
+                          {
+                            "fecha": "20-08-2010",
+                            "evento": "Levante UD vence al Atlético de Madrid en la jornada inaugural de La Liga."
+                          },
+                          {
+                            "fecha": "23-08-2014",
+                            "evento": "Levante UD clasifica a la segunda ronda de la Copa del Rey tras eliminar a un rival de Segunda B."
+                          },
+                          {
+                            "fecha": "26-08-1997",
+                            "evento": "Levante UD obtiene un empate ante el Celta de Vigo en la jornada 1 de La Liga."
+                          },
+                          {
+                            "fecha": "29-08-2002",
+                            "evento": "Levante UD arranca con una victoria 3-1 en el primer partido de la temporada de Segunda."
+                          },
+                          {
+                            "fecha": "31-08-2013",
+                            "evento": "Levante UD firma a su nuevo portero titular, el argentino Nereo Champagne."
+                          },
+                          {
+                            "fecha": "02-08-2010",
+                            "evento": "Levante UD anuncia la contratación del delantero sueco Johan Elmander."
+                          },
+                          {
+                            "fecha": "06-08-2015",
+                            "evento": "Levante UD organiza una presentación para sus nuevos fichajes antes del inicio de la temporada."
+                          },
+                          {
+                            "fecha": "08-08-2007",
+                            "evento": "Levante UD celebra la renovación de su capitán durante un evento en el estadio."
+                          },
+                          {
+                            "fecha": "12-08-1996",
+                            "evento": "Levante UD comienza su campaña en Segunda División con una victoria convincente."
+                          },
+                          {
+                            "fecha": "15-08-2018",
+                            "evento": "Levante UD recibe el trofeo ‘Amistad’ al vencer al Olympique de Lyon en un amistoso."
+                          },
+                          {
+                            "fecha": "19-08-2014",
+                            "evento": "Levante UD realiza su primera venta de un jugador al extranjero, traspasando a un defensor clave."
+                          },
+                          {
+                            "fecha": "22-08-2010",
+                            "evento": "Levante UD ficha a un mediocampista internacional como parte de su renovación para la temporada."
+                          },
+                          {
+                            "fecha": "25-08-2012",
+                            "evento": "Levante UD firma una importante victoria ante el Real Betis en el inicio de La Liga."
+                          },
+                          {
+                            "fecha": "28-08-2000",
+                            "evento": "Levante UD realiza su debut en la Copa del Rey de ese año con una victoria sobre un equipo de Segunda B."
+                          }
+                        ],
+                      
+                      
+                        
+                            "septiembre": [
+                              {
+                                "fecha": "01-09-2007",
+                                "evento": "Levante UD firma un importante empate 1-1 contra el Real Madrid en la primera jornada de La Liga."
+                              },
+                              {
+                                "fecha": "05-09-2010",
+                                "evento": "Levante UD ficha al mediocampista Fran Mérida, exjugador del Arsenal."
+                              },
+                              {
+                                "fecha": "07-09-1998",
+                                "evento": "Levante UD clasifica a la final de la Copa de la Comunidad Valenciana."
+                              },
+                              {
+                                "fecha": "10-09-2012",
+                                "evento": "Levante UD firma un contrato de patrocinio con la marca Nike."
+                              },
+                              {
+                                "fecha": "12-09-1981",
+                                "evento": "Johan Cruyff juega su primer partido con el Levante UD contra el Real Murcia, en la temporada 1981-1982."
+                              },
+                              {
+                                "fecha": "12-09-2014",
+                                "evento": "Levante UD celebra su regreso a Europa tras una destacada campaña en La Liga."
+                              },
+                              {
+                                "fecha": "15-09-1993",
+                                "evento": "Levante UD derrota al Real Zaragoza en la jornada inaugural de La Liga."
+                              },
+                              {
+                                "fecha": "17-09-2005",
+                                "evento": "Levante UD firma una victoria 3-0 contra el RCD Espanyol en la segunda jornada de la temporada."
+                              },
+                              {
+                                "fecha": "19-09-2011",
+                                "evento": "Levante UD firma el fichaje de su delantero estrella, el camerunés Arouna Koné."
+                              },
+                              {
+                                "fecha": "22-09-1994",
+                                "evento": "Levante UD obtiene el ascenso matemático a Primera División."
+                              },
+                              {
+                                "fecha": "25-09-2013",
+                                "evento": "Levante UD vence al Real Betis en un partido importante para la permanencia en La Liga."
+                              },
+                              {
+                                "fecha": "02-09-2006",
+                                "evento": "Levante UD presenta su nueva camiseta para la temporada 2006-2007."
+                              },
+                              {
+                                "fecha": "04-09-2009",
+                                "evento": "Levante UD realiza su primera gira de pretemporada por América."
+                              },
+                              {
+                                "fecha": "06-09-2017",
+                                "evento": "Levante UD firma un contrato con la Universidad Católica para un proyecto de colaboración social."
+                              },
+                              {
+                                "fecha": "08-09-2014",
+                                "evento": "Levante UD anuncia una serie de cambios en su plantilla para reforzar el ataque."
+                              },
+                              {
+                                "fecha": "10-09-2000",
+                                "evento": "Levante UD comienza su temporada en Segunda División con un nuevo objetivo de ascender."
+                              },
+                              {
+                                "fecha": "14-09-2011",
+                                "evento": "Levante UD abre su nueva tienda oficial en el centro de Valencia."
+                              },
+                              {
+                                "fecha": "16-09-2013",
+                                "evento": "Levante UD presenta su proyecto de expansión internacional con la creación de academias en el extranjero."
+                              },
+                              {
+                                "fecha": "18-09-2002",
+                                "evento": "Levante UD realiza su presentación en el Estadio Ciudad de Valencia ante 30,000 espectadores."
+                              },
+                              {
+                                "fecha": "20-09-2016",
+                                "evento": "Levante UD firma un acuerdo con una nueva empresa para renovar el sistema de iluminación del estadio."
+                              },
+                              {
+                                "fecha": "24-09-2010",
+                                "evento": "Levante UD renueva su acuerdo de patrocinio con una marca deportiva internacional."
+                              }
+                            ],
+                          
+                          
+                            
+                        
+                                    "octubre": [
+                                      { "fecha": "01-10-2008", "evento": "Levante UD logra la primera victoria de la temporada en La Liga contra el Real Sociedad." },
+                                      { "fecha": "04-10-2012", "evento": "Levante UD derrota al Málaga CF en una histórica victoria fuera de casa." },
+                                      { "fecha": "07-10-2015", "evento": "Levante UD firma el fichaje del lateral derecho David Simón." },
+                                      { "fecha": "10-10-1999", "evento": "Levante UD se enfrenta al FC Barcelona en un empate histórico 1-1." },
+                                      { "fecha": "13-10-2011", "evento": "Levante UD obtiene un empate clave contra el Valencia en el derbi valenciano." },
+                                      { "fecha": "17-10-2007", "evento": "Levante UD elimina al Atlético de Madrid en los cuartos de final de la Copa del Rey." },
+                                      { "fecha": "19-10-2004", "evento": "Levante UD se enfrenta al Villarreal CF en un empate histórico 3-3." },
+                                      { "fecha": "22-10-2010", "evento": "Levante UD vence al Deportivo de La Coruña 1-0 en la jornada 9 de La Liga." },
+                                      { "fecha": "25-10-2013", "evento": "Levante UD firma una victoria clave en La Liga contra el Real Valladolid." },
+                                      { "fecha": "28-10-2016", "evento": "Levante UD firma un acuerdo de colaboración con la Fundación La Caixa." },
+                                      { "fecha": "03-10-1991", "evento": "Levante UD clasifica para la final de la Copa de la Comunidad Valenciana." },
+                                      { "fecha": "05-10-2009", "evento": "Levante UD renueva su acuerdo de patrocinio con Powerade por tres años más." },
+                                      { "fecha": "09-10-2014", "evento": "Levante UD firma su nuevo contrato de transmisión con la cadena deportiva Movistar." },
+                                      { "fecha": "11-10-2018", "evento": "Levante UD inaugura un nuevo centro de entrenamiento con las últimas instalaciones tecnológicas." },
+                                      { "fecha": "14-10-2006", "evento": "Levante UD firma un contrato de cooperación con la Universidad de Valencia para proyectos conjuntos." },
+                                      { "fecha": "16-10-2010", "evento": "Levante UD realiza una gira por América Latina, jugando varios partidos amistosos." },
+                                      { "fecha": "18-10-2015", "evento": "Levante UD organiza una jornada de puertas abiertas para los aficionados en el Estadio Ciudad de Valencia." },
+                                      { "fecha": "20-10-2002", "evento": "Levante UD celebra su 100º aniversario con una gran fiesta en el estadio." },
+                                      { "fecha": "23-10-2011", "evento": "Levante UD firma un acuerdo con la empresa de tecnología para mejorar sus servicios digitales." },
+                                      { "fecha": "26-10-2017", "evento": "Levante UD lanza una nueva campaña de abonados con promociones especiales." },
+                                      { "fecha": "30-10-1994", "evento": "Levante UD renueva su plantilla con un nuevo director deportivo." },
+                                      { "fecha": "16-09-2011", "evento": "Levante UD alcanza el liderato de La Liga por primera vez en su historia tras vencer al Real Betis." }
+                                    ],
+                                  
+                                  
+                              
+                              
+                                
+                                    "noviembre": [
+                                      { "fecha": "02-11-2009", "evento": "Levante UD obtiene una victoria importante en la Copa del Rey contra el Atlético Baleares." },
+                                      { "fecha": "05-11-1997", "evento": "Levante UD firma su regreso a Primera División con una victoria ante el Real Madrid." },
+                                      { "fecha": "09-11-2014", "evento": "Levante UD derrota al Granada en un encuentro clave para la permanencia." },
+                                      { "fecha": "12-11-2008", "evento": "Levante UD presenta su nueva campaña de abonados para la temporada 2008-2009." },
+                                      { "fecha": "14-11-2011", "evento": "Levante UD obtiene una victoria 1-0 ante el Real Zaragoza en La Liga." },
+                                      { "fecha": "16-11-2013", "evento": "Levante UD firma un empate histórico contra el Real Madrid en la jornada 13." },
+                                      { "fecha": "19-11-1996", "evento": "Levante UD derrota al Deportivo La Coruña en la jornada 14 de la Liga Española." },
+                                      { "fecha": "22-11-2012", "evento": "Levante UD consigue una victoria épica ante el Sevilla FC en La Liga." },
+                                      { "fecha": "24-11-2015", "evento": "Levante UD celebra el fichaje del delantero Roberto Soldado, exjugador del Tottenham Hotspur." },
+                                      { "fecha": "30-11-2007", "evento": "Levante UD firma un acuerdo con la cadena de televisión Cuatro para transmitir sus partidos." },
+                                      { "fecha": "03-11-2010", "evento": "Levante UD renueva su acuerdo con el patrocinador principal, ampliando su contrato por dos años más." },
+                                      { "fecha": "06-11-2004", "evento": "Levante UD organiza un evento de homenaje a los jugadores históricos del club." },
+                                      { "fecha": "08-11-2002", "evento": "Levante UD firma una renovación de contrato con su entrenador para continuar en La Liga." },
+                                      { "fecha": "13-11-2017", "evento": "Levante UD celebra su 110 aniversario con un acto institucional en el Estadio Ciudad de Valencia." },
+                                      { "fecha": "18-11-1999", "evento": "Levante UD inicia su gira por América Latina para preparar la nueva temporada." },
+                                      { "fecha": "20-11-2014", "evento": "Levante UD renueva su acuerdo de colaboración con la Fundación Banco Sabadell." },
+                                      { "fecha": "23-11-2003", "evento": "Levante UD celebra un acto benéfico en apoyo a los niños de la ciudad." },
+                                      { "fecha": "25-11-2011", "evento": "Levante UD firma un contrato de cooperación con la Universidad Politécnica de Valencia." },
+                                      { "fecha": "27-11-2016", "evento": "Levante UD presenta su nuevo uniforme para la temporada 2016-2017." },
+                                      { "fecha": "29-11-1992", "evento": "Levante UD realiza su primer partido internacional contra un club de Europa." }
+                                    ],
+                                  
+                                  
+                                    
+                                        "diciembre": [
+                                          { "fecha": "02-12-2005", "evento": "Levante UD firma un empate contra el Real Betis en la jornada 16 de La Liga." },
+                                          { "fecha": "05-12-2010", "evento": "Levante UD derrota al Racing de Santander por 2-0 en La Liga." },
+                                          { "fecha": "08-12-2001", "evento": "Levante UD derrota al Real Oviedo en la Copa del Rey." },
+                                          { "fecha": "12-12-2012", "evento": "Levante UD firma una victoria importante ante el Atlético de Madrid." },
+                                          { "fecha": "14-12-1997", "evento": "Levante UD presenta su nueva campaña de socios en un evento exclusivo." },
+                                          { "fecha": "17-12-2009", "evento": "Levante UD firma la renovación del entrenador Luis García." },
+                                          { "fecha": "20-12-2006", "evento": "Levante UD firma un acuerdo con la Fundación para el Desarrollo del Fútbol Base." },
+                                          { "fecha": "22-12-2014", "evento": "Levante UD presenta a su nuevo fichaje estrella, el delantero Arouna Koné." },
+                                          { "fecha": "25-12-1993", "evento": "Levante UD organiza su primera cena de Navidad como parte de sus celebraciones anuales." },
+                                          { "fecha": "30-12-2007", "evento": "Levante UD obtiene una victoria importante para salir de la zona de descenso en La Liga." },
+                                          { "fecha": "01-12-1994", "evento": "Levante UD firma un acuerdo de colaboración con un nuevo patrocinador oficial." },
+                                          { "fecha": "04-12-2003", "evento": "Levante UD organiza un evento para la presentación de su nueva camiseta." },
+                                          { "fecha": "07-12-2016", "evento": "Levante UD inicia la venta de entradas para su partido clave de Copa del Rey." },
+                                          { "fecha": "10-12-2018", "evento": "Levante UD renueva su acuerdo con el patrocinador principal, Powerade." },
+                                          { "fecha": "13-12-2017", "evento": "Levante UD lanza una campaña benéfica para apoyar a los niños desfavorecidos." }
+                                        ]
+                                      }
+                                      
+  
+  
